@@ -7,6 +7,7 @@ class Homepage extends Component {
   render() {
     return (
       <div>
+        hello
         <Navbar 
           num={this.props.num}
         />
